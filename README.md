@@ -4,3 +4,9 @@ As we have a page with different content, i decided diagramming page elements se
 
 I hope you enjoy,<br>
 <a href="http://alcateia.cc" target="_blank">Felipe Wolfenberg</a>
+
+PS: I create this account, because usually i dont use GitHub in my projects (All those are fast, small and im only one developer) and i forgot my old account password (felipeaw1).
+
+PS2: I lost the domain (falves.net) to send a forgot password (felipe@falves.net)
+
+PS3: =(
